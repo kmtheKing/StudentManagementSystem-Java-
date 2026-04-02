@@ -1,0 +1,21 @@
+# Java Build Artifacts
+bin/
+*.class
+*.jar
+!lib/*.jar
+
+# IDE Folders
+.vscode/
+.idea/
+*.iml
+*.project
+*.settings/
+*.classpath
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
+run.ps1.log
