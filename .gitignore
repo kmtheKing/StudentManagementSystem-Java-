@@ -19,3 +19,8 @@ Thumbs.db
 # Misc
 *.log
 run.ps1.log
+
+# Python Files (Excluded per current project)
+*.py
+*.pyc
+__pycache__/
